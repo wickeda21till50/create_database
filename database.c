@@ -70,6 +70,6 @@ int main() {
     displayStudentData(names, marks);
 
     return 0;
- }
+}
 
 
